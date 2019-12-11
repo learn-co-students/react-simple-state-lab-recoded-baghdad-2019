@@ -34,7 +34,6 @@ Matrix.defaultProps = {
   ['#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00'],
   ['#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00', '#F00']
 ]
-=======
 import React, { Component } from 'react';
 import Cell from './Cell.js'
 export default class Matrix extends Component {
